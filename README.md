@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo ao meu github</h1>
+<h1 align="left">Bem vindo ao meu github</h1>
 
 ###
 
